@@ -37,8 +37,12 @@ For the models trained using different architectures, distinct observations were
 - Recall values are consistently low across multiple Intersection over Union (IoU) thresholds. Adjusting the IoU doesn't lead to significant enhancements.
 - The model faces challenges distinguishing between specific aquatic species.
 
+![Result from train_1](./output_train_1.png)
+
 ### SSD MobileNet V2 FPNLite 320x320 ([train_0.ipynb](./train_0.ipynb))
 - Recall values show an increasing trend as the Intersection over Union (IoU) threshold is increased, indicating a better alignment of predicted bounding boxes with ground truth at higher IoU thresholds.
+
+![Result from train_1](./output_train_0.png)
 
 These results provide insights into the strengths and weaknesses of each model, guiding potential improvements and adjustments.
 
