@@ -1,0 +1,428 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 4824,
+      "type": "SCALAR",
+      "name": "accBatch_0"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 41225,
+      "type": "SCALAR",
+      "name": "accBatch_1"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 2835,
+      "type": "SCALAR",
+      "name": "accBatch_5"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 4824,
+      "type": "SCALAR",
+      "name": "accColorIndex_0"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 41225,
+      "type": "SCALAR",
+      "name": "accColorIndex_1"
+    },
+    {
+      "bufferView": 5,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 2835,
+      "type": "SCALAR",
+      "name": "accColorIndex_5"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 8004,
+      "type": "SCALAR",
+      "name": "accIndex0"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 79872,
+      "type": "SCALAR",
+      "name": "accIndex1"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 8475,
+      "type": "SCALAR",
+      "name": "accIndices5"
+    },
+    {
+      "bufferView": 9,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 2835,
+      "max": [
+        0.18008719384670258,
+        0.1695118546485901,
+        0.9999843835830688
+      ],
+      "min": [
+        -0.02609262987971306,
+        -0.04317047446966171,
+        -1
+      ],
+      "type": "VEC3",
+      "name": "accNormal5"
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 4824,
+      "max": [
+        402.6430358886719,
+        1196.859130859375,
+        -10.287928581237793
+      ],
+      "min": [
+        -370.4791564941406,
+        -730.8485107421875,
+        -10.28842830657959
+      ],
+      "type": "VEC3",
+      "name": "accPosition0"
+    },
+    {
+      "bufferView": 11,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 41225,
+      "max": [
+        431.00469970703125,
+        1218.491943359375,
+        9.497504234313965
+      ],
+      "min": [
+        -416.7236328125,
+        -1218.61181640625,
+        -10.288432121276855
+      ],
+      "type": "VEC3",
+      "name": "accPosition1"
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 2835,
+      "max": [
+        325.85552978515625,
+        -269.7790222167969,
+        10.582487106323242
+      ],
+      "min": [
+        -199.7559051513672,
+        -688.6558227539062,
+        -10.288429260253906
+      ],
+      "type": "VEC3",
+      "name": "accPosition5"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 9648,
+      "byteOffset": 0,
+      "target": 34962,
+      "name": "bvBatch_0",
+      "byteStride": 2
+    },
+    {
+      "buffer": 0,
+      "byteLength": 82450,
+      "byteOffset": 9648,
+      "target": 34962,
+      "name": "bvBatch_1",
+      "byteStride": 2
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5670,
+      "byteOffset": 92104,
+      "target": 34962,
+      "name": "bvBatch_5",
+      "byteStride": 2
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19296,
+      "byteOffset": 97776,
+      "target": 34962,
+      "name": "bvColorIndex_0",
+      "byteStride": 4
+    },
+    {
+      "buffer": 0,
+      "byteLength": 164900,
+      "byteOffset": 117072,
+      "target": 34962,
+      "name": "bvColorIndex_1",
+      "byteStride": 4
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11340,
+      "byteOffset": 281976,
+      "target": 34962,
+      "name": "bvColorIndex_5",
+      "byteStride": 4
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16008,
+      "byteOffset": 293320,
+      "target": 34963,
+      "name": "bvIndex0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 159744,
+      "byteOffset": 309328,
+      "target": 34963,
+      "name": "bvIndex1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16950,
+      "byteOffset": 469072,
+      "target": 34963,
+      "name": "bvIndices5"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34020,
+      "byteOffset": 486024,
+      "target": 34962,
+      "name": "bvNormal5",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 57888,
+      "byteOffset": 520048,
+      "target": 34962,
+      "name": "bvPosition0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 494700,
+      "byteOffset": 577936,
+      "target": 34962,
+      "name": "bvPosition1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34020,
+      "byteOffset": 1072640,
+      "target": 34962,
+      "name": "bvPosition5",
+      "byteStride": 12
+    }
+  ],
+  "buffers": [
+    {
+      "name": "Model_1c_test_no_unused",
+      "byteLength": 1106664,
+      "uri": "Model_1c_test_no_unused.bin"
+    }
+  ],
+  "images": [
+    {
+      "name": "image_0",
+      "mimeType": "image/png",
+      "uri": "image_0.png"
+    },
+    {
+      "name": "image_1",
+      "mimeType": "image/png",
+      "uri": "image_1.png"
+    },
+    {
+      "name": "image_5",
+      "mimeType": "image/png",
+      "uri": "image_5.png"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0.95,
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": true
+    },
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0.95,
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": true
+    },
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0.95,
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": true
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10,
+            "_BATCHID": 0,
+            "_COLORINDEX": 3
+          },
+          "indices": 6,
+          "material": 1,
+          "mode": 1
+        },
+        {
+          "attributes": {
+            "POSITION": 11,
+            "_BATCHID": 1,
+            "_COLORINDEX": 4
+          },
+          "indices": 7,
+          "material": 2,
+          "mode": 1
+        },
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 12,
+            "_BATCHID": 2,
+            "_COLORINDEX": 5
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ],
+      "name": "Mesh_0"
+    }
+  ],
+  "nodes": [
+    {
+      "name": "rootNode",
+      "mesh": 0
+    }
+  ],
+  "samplers": [
+    {
+      "maxFilter": 9728,
+      "minFilter": 9728,
+      "wrapS": 33071,
+      "wrapT": 33071,
+      "name": "sampler_1"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "defaultScene"
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "texture_0"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "texture_1"
+    },
+    {
+      "sampler": 0,
+      "source": 2,
+      "name": "texture_5"
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  }
+}
